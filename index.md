@@ -1,4 +1,4 @@
-- [ ] \(Optional) Open a followup issue
+- [ ] (Optional) Open a followup issue
 ## Welcome to GitHub Pages Markdown 
 # this is shihab eshtaiwi  
 :grin: 
