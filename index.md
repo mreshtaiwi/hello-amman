@@ -1,10 +1,10 @@
 - [x] \(Optional) Open a followup issue
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ## Welcome to GitHub Pages Markdown 
-# this is shihab eshtaiwi  
+## this is shihab eshtaiwi  
 :grin: 
 :+1: 
-this is new line
+__this is new line__
 # and your welcome 
 
 This is an examples
